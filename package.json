@@ -1,0 +1,19 @@
+{
+  "name": "top-idees-cadeaux",
+  "version": "1.0.0",
+  "description": "Storefront child theme for https://www.top-idees-cadeaux.com/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ismail-elkorchi/Top-Idees-Cadeaux.git"
+  },
+  "author": "Ismail El Korchi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ismail-elkorchi/Top-Idees-Cadeaux/issues"
+  },
+  "homepage": "https://github.com/Ismail-elkorchi/Top-Idees-Cadeaux#readme"
+}
