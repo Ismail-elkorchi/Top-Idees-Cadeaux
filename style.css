@@ -6,3 +6,22 @@ Author: Ismail El korchi
 Author URI: https://www.ismailelkorchi.com
 Template: storefront 
 */  
+
+@media (min-width: 768px) {
+    #masthead .col-full {
+        display: flex;
+        align-items: center;
+    }
+
+    #masthead .main-navigation {
+        text-align: right;
+    }
+
+    .woocommerce-active .site-header div.site-branding {
+        width: auto;
+    }
+
+    .site-header {
+        padding-top: 0.618em;
+    }
+}
