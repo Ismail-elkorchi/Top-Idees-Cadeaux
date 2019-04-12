@@ -25,3 +25,13 @@ Template: storefront
         padding-top: 0.618em;
     }
 }
+
+.right-sidebar .content-area {
+    width:73.9130434783%;
+    float:none;
+    margin:0 auto 0
+}
+
+.hentry.type-page .entry-header {
+    text-align: center;
+}
