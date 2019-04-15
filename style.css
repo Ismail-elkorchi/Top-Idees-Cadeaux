@@ -44,3 +44,11 @@ Template: storefront
     text-align: center;
     padding: 1.618em 0;
 }
+
+.my-account {
+	display: none !important;
+}
+
+.storefront-handheld-footer-bar ul.columns-3 li {
+    width: 50%;
+}
