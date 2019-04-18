@@ -26,10 +26,15 @@ Template: storefront
     }
 }
 
-.right-sidebar .content-area {
+.left-sidebar .content-area {
     width:73.9130434783%;
     float:none;
-    margin:0 auto 0
+    margin:0 auto 0;
+}
+
+.post-type-archive.left-sidebar .content-area {
+	float: right;
+	margin-right: 0;
 }
 
 .hentry.type-page .entry-header {
