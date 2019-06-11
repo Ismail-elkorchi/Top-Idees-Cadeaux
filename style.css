@@ -26,21 +26,6 @@ Template: storefront
     }
 }
 
-.left-sidebar .content-area {
-    width:73.9130434783%;
-    float:none;
-    margin:0 auto 0;
-}
-
-.post-type-archive.left-sidebar .content-area {
-	float: right;
-	margin-right: 0;
-}
-
-.hentry.type-page .entry-header {
-    text-align: center;
-}
-
 .site-footer {
     padding: 1.618em 0 0;
 }
